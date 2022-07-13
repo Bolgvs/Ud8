@@ -12,7 +12,6 @@ public class Password {
 	
 	public Password() {
 		
-		
 		this.longitud = 8;
 		
 		this.contraseña = generarContraseñaAleat(longitud);
@@ -37,11 +36,7 @@ public class Password {
 	
 	public String generarContraseñaAleat (int longitud) {
 		
-		
-		
 		String contraseña = "";
-		
-		// For para cada uno de los caracteres
 		
 		for (int bucle = 0; bucle < longitud; bucle++) {
 			
