@@ -12,7 +12,6 @@ public class Password {
 	
 	public Password() {
 		
-		
 		this.longitud = 8;
 		
 		this.contraseña = generarContraseñaAleat(longitud);
