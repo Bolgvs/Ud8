@@ -28,13 +28,15 @@ public class Password {
 	
 	public String toString() {
 		
-		return "Password [ La longitud de la contraseña es: " + longitud + " y la contraseña es: " + contraseña + " ]";
+		return "Password [ La longitud es de: " + longitud + " carácteres y la contraseña es: " + contraseña + " ]";
 		
 	}
 
 	// Metodo para generar contraseña aleatoria
 	
 	public String generarContraseñaAleat (int longitud) {
+		
+		
 		
 		String contraseña = "";
 		

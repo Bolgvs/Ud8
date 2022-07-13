@@ -142,8 +142,8 @@ public class Persona {
 		
 		public String toString() {
 			
-			return "Persona [nombre: " + nombre + ", edad: " + edad + ", DNI: " + DNI + ", sexo: " + sexo 
-					+ ", peso: " + peso + ", altura: " + altura + "]";
+			return "Esta persona se llama: " + nombre + ", su edad es de: " + edad + " años, su DNI: " + DNI
+					 + ", es: " + sexo  + ", pesa: " + peso + " kg, y mide: " + altura + " cm ]";
 			
 		}
 		
