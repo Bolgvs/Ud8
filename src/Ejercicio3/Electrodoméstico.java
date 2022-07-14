@@ -90,25 +90,37 @@ public class Electrodoméstico {
 		
 			case ('A'):
 				
+				consumo = 'A';
+				
 				break;
 			
 			case ('B'):
+				
+				consumo = 'B';
 				
 				break;
 			
 			case ('C'):
 				
+				consumo = 'C';
+				
 				break;
 			
 			case ('D'):
+				
+				consumo = 'D';
 				
 				break;
 			
 			case ('E'):
 				
+				consumo = 'E';
+				
 				break;
 			
 			case ('F'):
+				
+				consumo = 'F';
 				
 				break;
 			
